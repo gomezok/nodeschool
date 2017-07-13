@@ -1,0 +1,36 @@
+[Fri Jul 07 2017 16:07:26 GMT+0800 (中国标准时间)]/
+Error: An error for test purposes.
+    at Object.<anonymous> (E:\school\node\microblog\routes\index.js:12:13)
+    at nextMiddleware (E:\school\node\microblog\node_modules\connect\lib\middleware\router.js:175:25)
+    at param (E:\school\node\microblog\node_modules\connect\lib\middleware\router.js:183:17)
+    at pass (E:\school\node\microblog\node_modules\connect\lib\middleware\router.js:191:11)
+    at Object.router (E:\school\node\microblog\node_modules\connect\lib\middleware\router.js:197:7)
+    at next (E:\school\node\microblog\node_modules\connect\lib\http.js:204:15)
+    at next (E:\school\node\microblog\node_modules\connect\lib\middleware\session.js:322:9)
+    at E:\school\node\microblog\node_modules\connect\lib\middleware\session.js:341:9
+    at tryCatcher (E:\school\node\microblog\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise.successAdapter [as _fulfillmentHandler0] (E:\school\node\microblog\node_modules\bluebird\js\release\nodeify.js:23:30)
+    at Promise._settlePromise (E:\school\node\microblog\node_modules\bluebird\js\release\promise.js:566:21)
+    at Promise._settlePromise0 (E:\school\node\microblog\node_modules\bluebird\js\release\promise.js:614:10)
+    at Promise._settlePromises (E:\school\node\microblog\node_modules\bluebird\js\release\promise.js:693:18)
+    at Promise._fulfill (E:\school\node\microblog\node_modules\bluebird\js\release\promise.js:638:18)
+    at Promise._resolveCallback (E:\school\node\microblog\node_modules\bluebird\js\release\promise.js:432:57)
+    at Promise._settlePromiseFromHandler (E:\school\node\microblog\node_modules\bluebird\js\release\promise.js:524:17)
+[Fri Jul 07 2017 16:13:55 GMT+0800 (中国标准时间)]/
+Error: An error for test purposes.
+    at Object.<anonymous> (E:\school\node\microblog\routes\index.js:12:13)
+    at nextMiddleware (E:\school\node\microblog\node_modules\connect\lib\middleware\router.js:175:25)
+    at param (E:\school\node\microblog\node_modules\connect\lib\middleware\router.js:183:17)
+    at pass (E:\school\node\microblog\node_modules\connect\lib\middleware\router.js:191:11)
+    at Object.router (E:\school\node\microblog\node_modules\connect\lib\middleware\router.js:197:7)
+    at next (E:\school\node\microblog\node_modules\connect\lib\http.js:204:15)
+    at next (E:\school\node\microblog\node_modules\connect\lib\middleware\session.js:322:9)
+    at E:\school\node\microblog\node_modules\connect\lib\middleware\session.js:341:9
+    at tryCatcher (E:\school\node\microblog\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise.successAdapter [as _fulfillmentHandler0] (E:\school\node\microblog\node_modules\bluebird\js\release\nodeify.js:23:30)
+    at Promise._settlePromise (E:\school\node\microblog\node_modules\bluebird\js\release\promise.js:566:21)
+    at Promise._settlePromise0 (E:\school\node\microblog\node_modules\bluebird\js\release\promise.js:614:10)
+    at Promise._settlePromises (E:\school\node\microblog\node_modules\bluebird\js\release\promise.js:693:18)
+    at Promise._fulfill (E:\school\node\microblog\node_modules\bluebird\js\release\promise.js:638:18)
+    at Promise._resolveCallback (E:\school\node\microblog\node_modules\bluebird\js\release\promise.js:432:57)
+    at Promise._settlePromiseFromHandler (E:\school\node\microblog\node_modules\bluebird\js\release\promise.js:524:17)
